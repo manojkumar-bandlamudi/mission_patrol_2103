@@ -699,7 +699,7 @@
 		};
 		550B3B242BABF2D800783969 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9C2FD840F7BF4A44FDBCC900 /* Pods-Runner-RunnerUITests.debug.xcconfig */;
+			baseConfigurationReference = 9740EEB21CF90195004384FC /* Debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
@@ -729,7 +729,7 @@
 		};
 		550B3B252BABF2D800783969 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E4F2017C6350A472383C8F50 /* Pods-Runner-RunnerUITests.release.xcconfig */;
+			baseConfigurationReference = 7AFA3C8E1D35360C0083082E /* Release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
@@ -758,7 +758,7 @@
 		};
 		550B3B262BABF2D800783969 /* Profile */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 70D914EBAB1400218E5FAAC2 /* Pods-Runner-RunnerUITests.profile.xcconfig */;
+			baseConfigurationReference = 7AFA3C8E1D35360C0083082E /* Release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
